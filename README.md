@@ -7,6 +7,7 @@ This was quick and easy to make and was my first time exploring the use of Bulma
 ## Usage
 
 Play with it live here: http://juanjosefernandez.github.com/Ping-Pong-Score-Keeper
-__Winner must win by 2 :)__
+
+*Winner must win by 2 :)*
 
 
