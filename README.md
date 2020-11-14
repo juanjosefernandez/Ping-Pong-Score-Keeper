@@ -6,7 +6,7 @@ This was quick and easy to make and was my first time exploring the use of Bulma
 
 ## Usage
 
-Play with it live here: http://juanjosefernandez.github.com/Ping-Pong-Score-Keeper
+Play with it live here: http://www.juanjosefernandez.com/Ping-Pong-Score-Keeper/
 
 *Winner must win by 2 :)*
 
